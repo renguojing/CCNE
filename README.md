@@ -1,5 +1,5 @@
 # CCNE
-Collaborative Cross-Network Embedding Framework for Network Alignment
+## Collaborative Cross-Network Embedding Framework for Network Alignment
 ### Author: Hai-Feng Zhang, Guo-Jing Ren, Xiao Ding, Li Zhou, and Xingyi Zhang
 
 #### Requirements
