@@ -25,7 +25,7 @@ or
 
 ## Reference  
 If you are interested in our researches, please cite our papers:  
-@article{zhang2022collaborative,
+	@article{zhang2022collaborative,
 	title = {Collaborative Cross-Network Embedding Framework for Network Alignment},
 	author = {Zhang, Hai-Feng and Ren, Guo-Jing and Ding, Xiao and Zhou, Li and Zhang, Xingyi}
-}
+	}
