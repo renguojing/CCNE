@@ -20,4 +20,4 @@ torch-geometric           2.0.4
 If you want to run CCNE algorithm, use
 `sh run_ccne.sh`
 or
-`python ccne.py --s_edge $data/douban/online/edgelist --t_edge data/douban/offline/raw/edgelist --gt_path ${PD}/anchor/node,split=0.8.test.dict --train_path ${PD}/anchor/node,split=0.8.train.dict`
+`python ccne.py --s_edge data/douban/online/edgelist --t_edge data/douban/offline/raw/edgelist --gt_path data/douban/anchor/node,split=0.8.test.dict --train_path data/douban/anchor/node,split=0.8.train.dict`
