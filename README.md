@@ -3,11 +3,17 @@
 
 #### Requirements
 python                    3.8.12
+
 gensim                    4.0.1
+
 networkx                  2.6.3
+
 numpy                     1.20.3
+
 scikit-learn              0.24.2
+
 torch                     1.9.0
+
 torch-geometric           2.0.4
 
 #### Examples
