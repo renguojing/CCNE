@@ -1,6 +1,6 @@
 # CCNE: Collaborative Cross-Network Embedding Framework for Network Alignment
 This repository contains the code of paper:  
- >Zhang, Hai-Feng and Ren, Guo-Jing and Ding, Xiao and Zhou, Li and Zhang, Xingyi. (2022). Collaborative Cross-Network Embedding Framework for Network Alignment.
+ >H. -F. Zhang, G. Ren, X. Ding, L. Zhou and X. Zhang, "Collaborative Cross-Network Embedding Framework for Network Alignment," in IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2024.3355479.
 
 #### Requirements
 python                    3.8.12
@@ -26,8 +26,12 @@ or
 ## Reference  
 If you are interested in our researches, please cite our papers:  
 
-	@article{zhang2022collaborative,
-	title = {Collaborative Cross-Network Embedding Framework for Network Alignment},
-	author = {Zhang, Hai-Feng and Ren, Guo-Jing and Ding, Xiao and Zhou, Li and Zhang, Xingyi},
-	year = {2022}
-	}
+@ARTICLE{ccne,
+  author={Zhang, Hai-Feng and Ren, Guojing and Ding, Xiao and Zhou, Li and Zhang, Xingyi},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={Collaborative Cross-Network Embedding Framework for Network Alignment}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TNSE.2024.3355479}}
