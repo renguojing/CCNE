@@ -26,7 +26,7 @@ or
 ## Reference  
 If you are interested in our researches, please cite our papers:  
 
-@ARTICLE{ccne,
+@ARTICLE{ren_ccne_2024,
   author={Zhang, Hai-Feng and Ren, Guojing and Ding, Xiao and Zhou, Li and Zhang, Xingyi},
   journal={IEEE Transactions on Network Science and Engineering}, 
   title={Collaborative Cross-Network Embedding Framework for Network Alignment}, 
