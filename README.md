@@ -50,26 +50,26 @@ If you are interested in our researches, please cite our papers:
   }
 
   ## Baselines -updated on May 14, 2025
-  CLF: `https://github.com/deepopo/CLF`
+  CLF: <https://github.com/deepopo/CLF>
   
-  PALE: PALE_toy.py
+  PALE: `PALE_toy.py`
   
-  IONE: `https://github.com/ColaLL/IONE`
+  IONE: <https://github.com/ColaLL/IONE>
   
-  DeepLink: `https://github.com/KDD-HIEPT/DeepLink` or DeepLink_toy.py
+  DeepLink: <https://github.com/KDD-HIEPT/DeepLink> or `DeepLink_toy.py`
   
-  dNAME: dNAME_toy.py
+  dNAME: `dNAME_toy.py`
   
-  CAMU: CAMU_toy.py
+  CAMU: `CAMU_toy.py`
   
-  NeXtAlign: `https://github.com/sizhang92/NextAlign-KDD21`
+  NeXtAlign: <https://github.com/sizhang92/NextAlign-KDD21>
   
-  CENALP: `https://github.com/deepopo/CENALP`
+  CENALP: <https://github.com/deepopo/CENALP>
   
-  Grad-Align+: `https://github.com/jindeok/GradAlign_plus`
+  Grad-Align+: <https://github.com/jindeok/GradAlign_plus>
   
   More baselines: 
   
-  `https://github.com/thanhtrunghuynh93/networkAlignment`
+  <https://github.com/thanhtrunghuynh93/networkAlignment>
   
-  `https://github.com/Allen517/alp-baselines`
+  <https://github.com/Allen517/alp-baselines>
